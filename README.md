@@ -1,5 +1,6 @@
 TwoFactorAuth.org [![Build Status](https://travis-ci.org/jdavis/twofactorauth.png?branch=master)](https://travis-ci.org/jdavis/twofactorauth)
 =================
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hoovercj/passwordpolicies?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A list of popular sites and whether or not they accept two factor auth.
 
